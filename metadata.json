@@ -1,0 +1,6 @@
+{
+  "name": "Wealthy Landing Page",
+  "description": "An elegant and modern financial landing page inspired by the premium Wealthy aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
